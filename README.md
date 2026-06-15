@@ -121,18 +121,6 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 
-## 🔮 Future Enhancements
-
-- Cloud Database Integration
-- Budget Planning
-- Financial Analytics
-- Charts and Reports
-- Export to PDF/Excel
-- Dark/Light Theme Support
-- Biometric Authentication
-
----
-
 ## 👥 Contributors
 
 - Gowtham Sundar S
