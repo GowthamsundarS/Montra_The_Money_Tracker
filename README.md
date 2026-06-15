@@ -135,7 +135,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ## 👥 Contributors
 
-- Goutham
+- Gowtham Sundar S
 - Akash
 - Fella
 - Mithun
